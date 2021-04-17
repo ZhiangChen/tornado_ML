@@ -1,0 +1,3 @@
+[submodule "tornado_gp"]
+	path = tornado_gp
+	url = https://github.com/ZhiangChen/tornado_gp.git
