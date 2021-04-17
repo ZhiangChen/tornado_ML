@@ -6,6 +6,8 @@ Copyright (c) 2018 Distributed Robotic Exploration and Mapping Systems Laborator
 
 Zhiang Chen, Nov 2018
 
+## Description
+
 ### 1. xml2mask.py
 [xml2mask.py](https://github.com/DREAMS-lab/data_augmentor/blob/master/xml2mask.py) provides methods of generating masks from xml files downloaded from web-based annotation tool [LabelMe](http://labelme.csail.mit.edu). It can
 - generate and combine all masks on a single layer and save as `.jpg` files. e.g. mask.shape = [width, height]
@@ -42,3 +44,9 @@ This is dependent on GDAL python. To install the related packages:
 $ sudo add-apt-repository ppa:ubuntugis/ppa && sudo apt-get update
 $ sudo apt-get install gdal-bin
 ```
+
+## Example
+[augmentationSample.ipynb](./augmentationSample.ipynb)
+
+## Update
+This package is customized for tornado damage estimation. The latest version can be found on https://github.com/DREAMS-lab/data_augmentor
