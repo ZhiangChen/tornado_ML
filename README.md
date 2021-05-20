@@ -23,7 +23,19 @@ Data-driven approaches for tornado damage estimation with UAS
 ![GP_heatmap](./doc/gp_heatmaps.jpg)
 
 ### Publication
-Data-driven approaches for tornado damage estimation with Unpiloted Aerial Systems (In Review)
+[Chen, Z., Wagner, M., Das, J., Doe, R.K. and Cerveny, R.S., 2021. Data-Driven Approaches for Tornado Damage Estimation with Unpiloted Aerial Systems. Remote Sensing, 13(9), p.1669.](https://www.mdpi.com/2072-4292/13/9/1669)
+```
+@article{chen2021data,
+  title={Data-Driven Approaches for Tornado Damage Estimation with Unpiloted Aerial Systems},
+  author={Chen, Zhiang and Wagner, Melissa and Das, Jnaneshwar and Doe, Robert K and Cerveny, Randall S},
+  journal={Remote Sensing},
+  volume={13},
+  number={9},
+  pages={1669},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
 
 ### Data availability
 The image data presented in this study contains sensitive residential information, and will be made available on request only for research purpose.
